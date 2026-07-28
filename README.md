@@ -22,10 +22,10 @@ Raw → Cleaned → Enriched → Modelled → Visualised
 4. Built a Power BI dashboard with 7 DAX measures.
 
 ## Repository
-DataCo_Supply_Chain_Analysis.pbix	- Interactive Power BI dashboard
-DataCo_Supply_Chain_Analysis_Sample.xlsx - Cleaned data sample with pivot tables and lookup table
-DataCo_Customer_Style_Report.pdf - Full analysis report (methodology, findings, dashboard)
-DataCo_Problem_Statement.pdf - Business problem statement and deliverables
+1. DataCo_Supply_Chain_Analysis.pbix	- Interactive Power BI dashboard
+2. DataCo_Supply_Chain_Analysis_Sample.xlsx - Cleaned data sample with pivot tables and lookup table
+3. DataCo_Customer_Style_Report.pdf - Full analysis report (methodology, findings, dashboard)
+4. DataCo_Problem_Statement.pdf - Business problem statement and deliverables
 
 ## Dataset
 [DataCo Smart Supply Chain — Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis) (public, synthetic dataset used as a realistic simulation)
