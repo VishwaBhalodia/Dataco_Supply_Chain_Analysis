@@ -24,7 +24,7 @@ Raw → Cleaned → Enriched → Modelled → Visualised
 ## Repository
 1. DataCo_Supply_Chain_Analysis.pbix	- Interactive Power BI dashboard
 2. DataCo_Supply_Chain_Analysis_Sample.xlsx - Cleaned data sample with pivot tables and lookup table
-3. DataCo_Customer_Style_Report.pdf - Full analysis report (methodology, findings, dashboard)
+3. DataCo_Report.pdf - Full analysis report (methodology, findings, dashboard)
 4. DataCo_Problem_Statement.pdf - Business problem statement and deliverables
 
 ## Dataset
